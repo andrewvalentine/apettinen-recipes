@@ -50,11 +50,11 @@
                 <key>input_path</key>
                 <string>%pathname%</string>
                 <key>expected_authority_names</key>
-				<array>
+		<array>
                 	<string>Developer ID Installer: Microsoft Corporation (UBF8T346G9)</string>
-					<string>Developer ID Certification Authority</string>
-					<string>Apple Root CA</string>
-				</array>
+			<string>Developer ID Certification Authority</string>
+			<string>Apple Root CA</string>
+		</array>
             </dict>
         </dict>
     </array>
