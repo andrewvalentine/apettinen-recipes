@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
     <key>Description</key>
-    <string>Downloads the latest version of Microsoft Teams dmg from Microsoft. Environment can be defined (although production seems to be the only available), as can platform (defaults to osx).</string>
+    <string>Downloads the latest version of Microsoft Teams from Microsoft. Environment can be defined (although production seems to be the only available), as can platform (defaults to osx).</string>
     <key>Identifier</key>
     <string>com.github.apettinen.download.MSTeams</string>
     <key>MinimumVersion</key>
